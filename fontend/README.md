@@ -249,23 +249,23 @@ yarn lint
 *企业形象展示、最新动态、服务概览*
 
 #### 🔐 用户认证系统
-[![登录页面](/docs/login.jpg)](https://yaxinshuiwu.com/login)
+[![登录页面](/docs/login.jpg)](https://yaxinshuiwu.com/#/login)
 *双模式登录、用户注册、验证码验证*
 
 #### 📰 内容管理系统
-[![新闻动态](/docs//back_532x250.jpg)](https://yaxinshuiwu.com/profess)
+[![新闻动态](/docs//back_532x250.jpg)](https://yaxinshuiwu.com/#/profess)
 *税务政策解读、行业动态、案例分析*
 
 #### 🏢 服务项目展示
-[![服务介绍](/docs/service.jpg)](https://yaxinshuiwu.com/service)
+[![服务介绍](/docs/service.jpg)](https://yaxinshuiwu.com/#/service)
 *详细的税务服务项目说明*
 
 #### 💬 消息与反馈
-[![消息中心](/docs/msg.jpg)](https://yaxinshuiwu.com/messages)
+[![消息中心](/docs/msg.jpg)](https://yaxinshuiwu.com/#/messages)
 *系统消息管理、用户反馈提交*
 
 #### 👥 关于我们
-[![关于我们](https://via.placeholder.com/400x250/909399/FFFFFF?text=关于我们+团队介绍)](https://yaxinshuiwu.com/us)
+[![关于我们](https://via.placeholder.com/400x250/909399/FFFFFF?text=关于我们+团队介绍)](https://yaxinshuiwu.com/#/us)
 *公司介绍、领导团队展示*
 
 </div>
