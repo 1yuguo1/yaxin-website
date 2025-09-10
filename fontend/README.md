@@ -249,23 +249,23 @@ yarn lint
 *企业形象展示、最新动态、服务概览*
 
 #### 🔐 用户认证系统
-[![登录页面](/docs/login.jpg)](https://yaxinshuiwu.com/#/login)
+[![登录页面](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/login.jpg?raw=true)](https://yaxinshuiwu.com/#/login)
 *双模式登录、用户注册、验证码验证*
 
 #### 📰 内容管理系统
-[![新闻动态](/docs//back_532x250.jpg)](https://yaxinshuiwu.com/#/profess)
+[![新闻动态](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/back_532x250.jpg?raw=true)](https://yaxinshuiwu.com/#/profess)
 *税务政策解读、行业动态、案例分析*
 
 #### 🏢 服务项目展示
-[![服务介绍](/docs/service.jpg)](https://yaxinshuiwu.com/#/service)
+[![服务介绍](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/service.jpg?raw=true)](https://yaxinshuiwu.com/#/service)
 *详细的税务服务项目说明*
 
 #### 💬 消息与反馈
-[![消息中心](/docs/msg.jpg)](https://yaxinshuiwu.com/#/messages)
+[![消息中心](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/msg.jpg?raw=true)](https://yaxinshuiwu.com/#/messages)
 *系统消息管理、用户反馈提交*
 
 #### 👥 关于我们
-[![关于我们](https://via.placeholder.com/400x250/909399/FFFFFF?text=关于我们+团队介绍)](https://yaxinshuiwu.com/#/us)
+[![关于我们](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/about.jpg?raw=true)](https://yaxinshuiwu.com/#/us)
 *公司介绍、领导团队展示*
 
 </div>
@@ -275,13 +275,13 @@ yarn lint
 <div align="center">
 
 #### 💻 桌面端
-[![桌面端](/docs/shouye_857x400.jpg)](https://yaxinshuiwu.com)
+[![桌面端](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/shouye_857x400.jpg?raw=true)](https://yaxinshuiwu.com)
 
 #### 📱 移动端
-[![移动端](/docs//shouye-mobile.jpg)](https://yaxinshuiwu.com)
+[![移动端](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/shouye-mobile.jpg?raw=true)](https://yaxinshuiwu.com)
 
 #### 📟 平板端
-[![平板端](/docs/shouye-ipad.jpg)](https://yaxinshuiwu.com)
+[![平板端](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/shouye-ipad.jpg?raw=true)](https://yaxinshuiwu.com)
 
 </div>
 
@@ -291,14 +291,14 @@ yarn lint
 
 | 功能模块 | 展示图 | 在线链接 | 状态 |
 |---------|--------|----------|------|
-| **🏠 首页** | [![首页](/docs/shouye-3.jpg)](https://www.yaxinshuiwu.com) | [立即体验](https://www.yaxinshuiwu.com) | ✅ 完成 |
-| **🔐 登录注册** | [![登录](/docs/login-2.jpg)](https://www.yaxinshuiwu.com/#/login) | [立即体验](https://www.yaxinshuiwu.com/#/login) | ✅ 完成 |
-| **📰 新闻动态** | [![新闻](/docs/new_m.jpg)](https://www.yaxinshuiwu.com/#/profess) | [立即体验](https://www.yaxinshuiwu.com/#/profess) | ✅ 完成 |
-| **🏢 服务项目** | [![服务](/docs//new-1.jpg)](https://www.yaxinshuiwu.com/#/service) | [立即体验](https://yaxinshuiwu.com/#/service) | ✅ 完成 |
-| **💬 消息中心** | [![消息](/docs//msg-1.jpg)](https://yaxinshuiwu.com/#/messages) | [立即体验](https://yaxinshuiwu.com/#/messages) | ✅ 完成 |
-| **👥 关于我们** | [![关于](/docs//about.jpg)](https://yaxinshuiwu.com/#/us) | [立即体验](https://yaxinshuiwu.com/#/us) | ✅ 完成 |
-| **📝 案例分享** | [![案例](/docs/new-share.jpg)](https://yaxinshuiwu.com/#/share) | [立即体验](https://yaxinshuiwu.com/#/share) | ✅ 完成 |
-| **📄 文章详情** | [![文章](/docs//detail.jpg)](https://www.yaxinshuiwu.com/#/detail?category_id=1&index=0) | [立即体验](https://www.yaxinshuiwu.com/#/detail?category_id=1&index=0) | ✅ 完成 |
+| **🏠 首页** | [![首页](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/shouye-3.jpg?raw=true)](https://www.yaxinshuiwu.com) | [立即体验](https://www.yaxinshuiwu.com) | ✅ 完成 |
+| **🔐 登录注册** | [![登录](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/login-2.jpg?raw=true)](https://www.yaxinshuiwu.com/#/login) | [立即体验](https://www.yaxinshuiwu.com/#/login) | ✅ 完成 |
+| **📰 新闻动态** | [![新闻](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/new_m.jpg?raw=true)](https://www.yaxinshuiwu.com/#/profess) | [立即体验](https://www.yaxinshuiwu.com/#/profess) | ✅ 完成 |
+| **🏢 服务项目** | [![服务](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/new-1.jpg?raw=true)](https://www.yaxinshuiwu.com/#/service) | [立即体验](https://yaxinshuiwu.com/#/service) | ✅ 完成 |
+| **💬 消息中心** | [![消息](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/msg-1.jpg?raw=true)](https://yaxinshuiwu.com/#/messages) | [立即体验](https://yaxinshuiwu.com/#/messages) | ✅ 完成 |
+| **👥 关于我们** | [![关于](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/about.jpg?raw=true)](https://yaxinshuiwu.com/#/us) | [立即体验](https://yaxinshuiwu.com/#/us) | ✅ 完成 |
+| **📝 案例分享** | [![案例](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/new-share.jpg?raw=true)](https://yaxinshuiwu.com/#/share) | [立即体验](https://yaxinshuiwu.com/#/share) | ✅ 完成 |
+| **📄 文章详情** | [![文章](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/detail.jpg?raw=true)](https://www.yaxinshuiwu.com/#/detail?category_id=1&index=0) | [立即体验](https://www.yaxinshuiwu.com/#/detail?category_id=1&index=0) | ✅ 完成 |
 
 </div>
 
@@ -307,13 +307,13 @@ yarn lint
 <div align="center">
 
 #### 🌈 现代化UI设计
-[![UI设计](/docs/shouye-3.jpg)](https://www.yaxinshuiwu.com)
+[![UI设计](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/shouye-3.jpg?raw=true)](https://www.yaxinshuiwu.com)
 
 #### 📱 完美响应式
-[![响应式](/docs/ui.jpg)](https://www.yaxinshuiwu.com)
+[![响应式](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/ui.jpg?raw=true)](https://www.yaxinshuiwu.com)
 
 #### ⚡ 高性能体验
-[![性能](/docs/test.jpg)](https://www.yaxinshuiwu.com)
+[![性能](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/test.jpg?raw=true)](https://www.yaxinshuiwu.com)
 
 </div>
 
@@ -322,15 +322,15 @@ yarn lint
 <div align="center">
 
 #### 💬 评论系统
-[![评论系统](/docs/comment.jpg)](https://yaxinshuiwu.com/article)
+[![评论系统](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/comment.jpg?raw=true)](https://yaxinshuiwu.com/article)
 *文章评论、回复功能、点赞系统*
 
 #### 👁️ 浏览统计
-[![浏览统计](/docs/view.jpg)](https://yaxinshuiwu.com/article)
+[![浏览统计](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/view.jpg?raw=true)](https://yaxinshuiwu.com/article)
 *文章浏览数统计、热门内容推荐*
 
 #### 🔔 智能通知
-[![智能通知](/docs/freedback.jpg)](https://www.yaxinshuiwu.com/#/ask)
+[![智能通知](https://github.com/1yuguo1/yaxin-website/blob/main/fontend/docs/freedback.jpg?raw=true)](https://www.yaxinshuiwu.com/#/ask)
 *系统通知、消息推送、状态管理*
 
 </div>
