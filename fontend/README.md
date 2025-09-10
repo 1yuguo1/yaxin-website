@@ -245,7 +245,7 @@ yarn lint
 <div align="center">
 
 #### 🏠 首页展示
-[![首页](https://github.com/1yuguo1/yaxin-website/tree/main/fontend//docs/shouye-2.jpg)](https://yaxinshuiwu.com)
+[![首页](https://github.com/1yuguo1/yaxin-website/tree/main/fontend/docs/shouye-2.jpg)](https://yaxinshuiwu.com)
 *企业形象展示、最新动态、服务概览*
 
 #### 🔐 用户认证系统
